@@ -1,0 +1,40 @@
+{	
+	"base": {
+		"BAYC": "https://ipfs.io/ipfs/QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/",
+		"MAYC": "https://boredapeyachtclub.com/api/mutants/",
+		"Otherdeed": "https://api.otherside.xyz/lands/",
+		"BAKC": "https://ipfs.io/ipfs/QmTDcCdt3yb6mZitzWBmQr65AW6Wska295Dg9nbEYpSUDR/",
+		"Doodles": "https://ipfs.io/ipfs/QmPMc4tcBsMqLRuCQtPmPe84bpSjrC3Ky7t3JWuHXYB4aS/",
+		"Weirdo Ghost Gang": "https://ipfs.io/ipfs/QmU61BwmB9fm3kN4EWS14YxrB1FFJcMWj9GRrf4hsEvaYE/"
+	},
+	"actual": {
+		"CryptoPunks": {
+			"first": "https://cryptopunks.app/public/images/cryptopunks/punk",
+			"second": ".png"
+		},
+		"Azuki": {
+			"first": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/",
+			"second": ".png",
+			"start": 0,
+			"end": 9999
+		},
+		"Catddle": {
+			"first": "https://gateway.ipfs.io/ipfs/QmfQJCzJspRpZDeBFn442SgKMKqbRJvn6XkFZ9iWJMQ5dj/",
+			"second": ".jpg",
+			"start": 1,
+			"end": 2048
+		},
+		"Meebits": {
+			"first": "https://meebits.app/meebitimages/characterimage?index=",
+			"second": "&type=full&imageType=jpg",
+			"start": 1,
+			"end": 20000
+		},
+		"Mimic Shhans": {
+			"first": "https://img.x2y2.io/v2/1/0xf75fd01d2262b07d92dca7f19bd6a3457060d7db/",
+			"second": "/720/image.jpg",
+			"start": 1,
+			"end": 10012
+		}
+	}
+}

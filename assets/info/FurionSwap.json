@@ -1,0 +1,49 @@
+{
+  "localhost": [],
+  "rinkeby": [
+    {
+      "token0": "0x1D19fedbfb70fBE7531dBa8fd271307e9D6B836E",
+      "token1": "0x2c3657C66B505348ec17a959E881842cd51CF304",
+      "name0": "FUR",
+      "name1": "ETH",
+      "pair": "0x0CDC65EEcfCa4df59E612eEB8d7AFe78D1f9E779"
+    },
+    {
+      "token0": "0x1D19fedbfb70fBE7531dBa8fd271307e9D6B836E",
+      "token1": "0xD0ba865684fF8fDdA85911B0B0E54860Fc4BE920",
+      "name0": "FUR",
+      "name1": "USDT",
+      "pair": "0x8A9904B0e141717da2e2c2267503d4e13495b6E1"
+    },
+    {
+      "token0": "0xD0ba865684fF8fDdA85911B0B0E54860Fc4BE920",
+      "token1": "0x2c3657C66B505348ec17a959E881842cd51CF304",
+      "name0": "USDT",
+      "name1": "ETH",
+      "pair": "0x76B6106E1e19bdfa051b834F239580B8238B8537"
+    }
+  ],
+  "goerli": [
+    {
+			"token0": "0x4c711efa05b78582f07D9d960B1dAdDe95688166",
+			"token1": "0x175940b39014cD3a9c87cd6b1d7616a097db958E",
+			"name0": "FFT-BAYC",
+			"name1": "ETH",
+			"pair": "0x1Fa848857B24B9416355F4b4668A84C842116Bf4"
+		},
+		{
+			"token0": "0x53c85C8f5dA3B098DF30204C0eA460602eC2BFC1",
+			"token1": "0x175940b39014cD3a9c87cd6b1d7616a097db958E",
+			"name0": "FFT-BLUECHIP",
+			"name1": "ETH",
+			"pair": "0xf8b18bf01cFb09930f23889234A6DcF3991639F9"
+		},
+		{
+			"token0": "0xce8791504fb07A10c82216C3366BdF7130fB24Ac",
+			"token1": "0x175940b39014cD3a9c87cd6b1d7616a097db958E",
+			"name0": "FFT-DARKHORSE",
+			"name1": "ETH",
+			"pair": "0x2BE60885e6CDE3eDD30882577042De657d6d2322"
+		}
+  ]
+}

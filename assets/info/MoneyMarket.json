@@ -1,0 +1,31 @@
+{
+  "localhost": [],
+  "rinkeby": [
+    {
+      "name": "fETH",
+      "address": "0xd497b66EdcA1d4a1EF50Ed9d63743E5EE0DBBDc6"
+    },
+    {
+      "name": "fFUR",
+      "address": "0x31366ddf85b377a67AaDB321aCB88104D5603e94"
+    },
+    {
+      "name": "fUSDT",
+      "address": "0x1A15E5817DAA94D6fae8f91A9f709Aab0E6FFA17"
+    }
+  ],
+  "goerli": [
+    {
+      "name": "fETH",
+      "address": "0xb4D0Ee5Aa559b838453Cc31Daa8b24DF37be751f"
+    },
+    {
+      "name": "fFUR",
+      "address": "0xf3342Efc237173917D2aCf57A3EBc2E814dB5Ec6"
+    },
+    {
+      "name": "fUSDT",
+      "address": "0x50cB039005e5842Bd9c1EcE5a75D7D924574D64b"
+    }
+  ]
+}

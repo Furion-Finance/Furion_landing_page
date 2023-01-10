@@ -1,0 +1,10 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.7">
+<circle cx="12" cy="12" r="12" fill="#C8CFE1"/>
+<circle cx="12" cy="12" r="12" fill="black" fill-opacity="0.1"/>
+<g opacity="0.42">
+<rect x="6.25" y="16.2495" width="14.1421" height="2.12131" rx="1" transform="rotate(-45 6.25 16.2495)" fill="#0B1A3C"/>
+<rect x="7.75" y="6.24951" width="14.1421" height="2.12131" rx="1" transform="rotate(45 7.75 6.24951)" fill="#0B1A3C"/>
+</g>
+</g>
+</svg>
