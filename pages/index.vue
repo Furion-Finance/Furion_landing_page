@@ -130,7 +130,7 @@ import $ from "jquery";
 
 import { mapState } from 'vuex';
 import { initAvatars, getVolumeItem, NftPrices } from '@/config/collection/aggregate_pools';
-import global from './common.vue'
+// import global from './common.vue'
 export default {
   layout: "blank2",
   head: {
