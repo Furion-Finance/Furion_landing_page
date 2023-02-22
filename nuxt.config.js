@@ -97,6 +97,37 @@ export default {
         type: 'text/css',
         href: 'https://fonts.googleapis.com/css?family=Orbitron:900',
       },
+      ,
+      {
+        rel: 'stylesheet',
+        type: 'text/css',
+        href: 'https://fonts.googleapis.com/css?family=Orbitron:400',
+      },
+      {
+        rel: 'stylesheet',
+        type: 'text/css',
+        href: 'https://fonts.googleapis.com/css?family=Orbitron:500',
+      },
+      {
+        rel: 'stylesheet',
+        type: 'text/css',
+        href: 'https://fonts.googleapis.com/css?family=Orbitron:600',
+      },
+      {
+        rel: 'stylesheet',
+        type: 'text/css',
+        href: 'https://fonts.googleapis.com/css?family=Orbitron:700',
+      },
+      {
+        rel: 'stylesheet',
+        type: 'text/css',
+        href: 'https://fonts.googleapis.com/css?family=Orbitron:800',
+      },
+      {
+        rel: 'stylesheet',
+        type: 'text/css',
+        href: 'https://fonts.googleapis.com/css?family=Orbitron:900',
+      },
     ],
   },
   loading: { color: "#FA6BE1" },

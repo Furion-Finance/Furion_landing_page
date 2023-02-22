@@ -12,13 +12,13 @@ li {
 </style>
 
 <template>
-  <!-- <div class="mb-135px">
+  <div class="mb-135px">
     <div class="Orbitron font-700 text-32px flex items-center justify-center mb-76px">
       On the Road
     </div>
 
     <div class="relative w-1185px mx-auto">
-      <img src="@/assets/images/home/road.png" class="select-none" />
+      <el-image :src="road" lazy class="select-none"></el-image>
 
       <div class="absolute top-172px left-23px">
         <div class="Orbitron text-white font-900 text-18px mb-10px">Nov, 2022</div>
@@ -72,7 +72,7 @@ li {
         </ul>
       </div>
     </div>
-  </div> -->
+  </div>
 </template>
 
 <script>
@@ -81,7 +81,9 @@ export default {
   components: {},
   computed: {},
   data() {
-    return {};
+    return {
+      road: require("@/assets/images/home/road.png"),
+    };
   },
   mounted() {},
   methods: {},
